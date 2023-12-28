@@ -8,7 +8,7 @@ return {
     local colors = {
       blue = "#D4BE98",
       green = "#D4BE98",
-      violet = "#FF61EF",
+      violet = "#FFDA7B",
       yellow = "#FFDA7B",
       red = "#FF4A4A",
       fg = "#ffffff",

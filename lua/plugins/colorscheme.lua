@@ -1,6 +1,5 @@
 return {
   { "catppuccin/nvim" },
-  --
   {
     "catppuccin/nvim",
     priority = 15000,
@@ -57,16 +56,17 @@ return {
             subtext0 = "#A69372",
             overlay2 = "#8C7A58",
             overlay1 = "#735F3F",
-            overlay0 = "#958272",
+            overlay0 = "#2a2d2e",
             surface2 = "#4B4F51",
-            surface1 = "#2A2D2E",
-            surface0 = "#282828",
+            surface1 = "#1c2020",
+            surface0 = "#0e1010",
             -- base = "#1c2021",
             base = "#0e1010",
             mantle = "#0e1010",
             crust = "#151819",
           },
         },
+
         styles = {
           comments = { "italic" },
           conditionals = {},
@@ -90,7 +90,6 @@ return {
       colorscheme = "catppuccin",
     },
   },
-
   -- Plugin Colorizer
   {
     "NvChad/nvim-colorizer.lua",
